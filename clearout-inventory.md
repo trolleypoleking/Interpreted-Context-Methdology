@@ -23,5 +23,6 @@ Status legend: 🔲 not yet priced · 💲 priced · ❓ needs reshoot/clarifica
 | R11 | DDR2-800 (PC2-6400S) | 1 GB | 2Rx16 | Samsung | M470T2864EH3-CF7 | SODIMM (laptop) | 🔲 |
 | R12 | DDR3-1333 (PC3-10666) | 4 GB | — | G.Skill RipjawsX | F3-10666CL9D-8GBXL | CL9, 1.5V, desktop DIMM. **Matched pair w/ R13** (8GB kit) | 🔲 |
 | R13 | DDR3-1333 (PC3-10666) | 4 GB | — | G.Skill RipjawsX | F3-10666CL9D-8GBXL | CL9, 1.5V, desktop DIMM. **Matched pair w/ R12** (8GB kit) | 🔲 |
+| R14 | DDR3L-1600 (PC3L-12800) | 8 GB | — | Crucial (Micron) | CT102464BF160B.M16FN | CL11, **1.35V low-voltage**, SODIMM (laptop) | 🔲 |
 
 ---
