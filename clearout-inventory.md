@@ -50,6 +50,20 @@ Non-waste items only. Ranges assume working, decent condition; postage + fees ea
 
 | # | Item | Specs | Status | Ballpark (AUD) | Notes |
 |---|------|-------|--------|----------------|-------|
-| S1 | Intel NUC5i5RYH ("Rock Canyon", mfg 05/2017) | i5-5250U (2c/4t, Broadwell), Intel HD 6000, 8GB DDR3L (R14), 240GB M.2 SSD, 2.5" bay free | Working / tested | **$130–190** | Wipe SSD before sale; note "boots, tested". 19V/3.43A PSU — confirm included |
+| S1 | Intel NUC5i5RYH ("Rock Canyon", mfg 05/2017) | i5-5250U (2c/4t, Broadwell), Intel HD 6000, 8GB DDR3L (R14), 240GB M.2 SSD, 2.5" bay free | Working / tested | **KEEP** | 🚫 NOT FOR SALE — repurposed as Tailscale exit node (AU residential IP). Find 19V/3.43A PSU in cable pile; set BIOS auto-power-on-after-AC-loss; enable Tailscale SSH + disable key expiry |
+
+---
+
+## Single-Board Computers
+
+| # | Item | SoC / RAM | Status | Ballpark (AUD) | Notes |
+|---|------|-----------|--------|----------------|-------|
+| B1 | Rock64 V2.0 (2017) | RK3328 / **4GB** | Untested | **$50–75** | Top RAM variant — most desirable. Board only; barrel-jack power |
+| B2 | Raspberry Pi 1 Model B+ V1.2 (2014) | BCM2835 single-core / 512MB | Untested | $10–18 | Low demand; light/collector use |
+| B3 | Raspberry Pi 3 Model B V1.2 (2015) | BCM2837 quad-core / 1GB | Untested | $30–45 | microUSB power |
+| B4 | Raspberry Pi 3 Model B V1.2 (2015) | BCM2837 quad-core / 1GB | Untested | $30–45 | microUSB power |
+| B5 | Orange Pi One V1.1 | Allwinner H3 quad-core / 512MB | Untested | $10–20 | Niche; weaker software support |
+
+*SBC subtotal: ~A$130–203 (if selling all). Consider keeping one Pi 3 as a travel tinker board.*
 
 ---
