@@ -74,7 +74,7 @@ Non-waste items only. Ranges assume working, decent condition; postage + fees ea
 |---|------|-----------|----------------|-------|
 | A1 | Numark M101 USB — 2-ch USB DJ mixer | Boxed, complete | **$50–90** | Box + unit. New ~$120 |
 | A2 | Allen & Heath ZED-12FX mixing console (AU model) | Boxed, complete | **$250–400** | ⭐ Star item — holds value well, new ~$700+. Test channels/FX before sale |
-| A3 | Numark TTX1 direct-drive turntable | "Beat up", no box | **TBD — rough $200–400 ea** | ⏳ Awaiting photos. Pair of them. Condition-dependent; pitch/platter/tonearm function drives price |
+| A3 | Numark TTX1 direct-drive turntable ×2 | Poor — **tonearms rat-chewed/damaged**, stored in loft years | **~$60–150 ea, as-is / for parts-repair** | ⏳ Photos still useful. Sell honestly as "tonearms damaged, for parts/repair". Silver lining: TTX tonearm is a **swappable module** (decks shipped with 2 arms) — check loft for intact spare arms/headshells/counterweights; an intact spare restores a deck & lifts value. Confirm if motors spin. Easiest exit: pair to one restorer. **Don't bin any parts** |
 
 ---
 
